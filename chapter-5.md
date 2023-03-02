@@ -58,7 +58,3 @@ Hub:
 ```bash
 echo "https://hub.docker.com/r/$dockerId/image-gallery/tags"
 ```
-
-
-
-
